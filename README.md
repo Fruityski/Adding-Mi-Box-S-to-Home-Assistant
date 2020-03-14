@@ -17,4 +17,6 @@
     media_player:
       - platform: androidtv
         name: MiBox 4S
-        host: 'Device IP Address'
+        host: 192.168.0.111
+More options can be found [here](https://www.home-assistant.io/integrations/androidtv/).        
+        
