@@ -6,9 +6,9 @@
 
 #### 2) Enable Wireless ADB Debugging 
     • Plug a USB A to USB A into your computer. 
-    • Run 'adb devices' to ensure it's connected
-    • Run 'adb tcpip 5555' (any port number not in use)
-    • Run 'adb connect [ip]:5555'
+    • Run "adb devices" to ensure it's connected
+    • Run "adb tcpip 5555" (any port number not in use)
+    • Run "adb connect [ip]:5555" adb devices
 
 #### 3) Add the following commands to your home assistant configuration.yaml. 
 
